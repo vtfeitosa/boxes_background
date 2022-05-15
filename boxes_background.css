@@ -1,0 +1,14 @@
+.fundo_ex_4 {
+    background-image: url(./assets/images/no_repeat_background.jpg);
+    background-repeat: no-repeat;
+    overflow: scroll;
+}
+
+.fundo_ex_5 {
+    background-image: url(./assets/images/repeat_background.jpg);
+    background-repeat: repeat;
+}
+
+.fundo_ex_3 {
+    background-image: linear-gradient(to right, rgb(95, 46, 173),rgb(188, 238, 107));
+}
